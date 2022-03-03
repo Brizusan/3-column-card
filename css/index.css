@@ -121,6 +121,7 @@ body{
     border-top-right-radius: 1.2rem;
     border-bottom-left-radius: 0;
   }
- 
+  .cta{
+    margin-top: 2.5rem;
   
 }
