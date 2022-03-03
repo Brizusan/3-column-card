@@ -108,7 +108,7 @@ body{
   .card{
     display: flex;
     flex-wrap: wrap;
-    max-width: 102.4rem;
+    max-width: 98rem;
   }
   .column{
     width: 32%;
